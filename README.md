@@ -1,5 +1,6 @@
 # VIGILANCE-NET-AI-Powered-Security-Surveillance-System
 
+VIGILANCE-NET: An AI-powered security surveillance system designed to enhance security monitoring through real-time threat detection.
 
 Project Overview:
 VIGILANCE-NET is an advanced security surveillance system designed to detect and respond to potential threats using AI and computer vision. It integrates modules for face detection, mask detection, fire detection, weapon detection, and alerts for unusual activity times. This project aims to enhance security monitoring capabilities through proactive threat detection and rapid response mechanisms.
